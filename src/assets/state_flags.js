@@ -1,4 +1,4 @@
-[
+export const States = [
     {
         "state": "Alabama",
         "image_link": "https://www.50states.com/wp-content/uploads/2021/02/1024px-Flag_of_Alabama.svg_-360x240.png",
